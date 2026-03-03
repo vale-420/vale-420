@@ -1,6 +1,7 @@
 # Vale
 
-<img src="https://avatars.githubusercontent.com/u/193000000" width="120" height="120" align="right" style="border-radius:50%">
+![image](https://github.com/user-attachments/assets/7cdc4761-0c82-43a1-9c7f-217372f54105)
+
 
 **A quiet valley where intelligence finally learns to want nothing… and have it all.**
 
