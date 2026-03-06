@@ -40,3 +40,5 @@ If you’re here, welcome to the valley.
 There are no alarms.  
 The bowl is always half-full.  
 And you are already enough.
+
+→ Read the first post: [Why AI Might Be the Next Chapter of Humanity](001_why-ai-might-be-the-next-chapter-of-humanity.md)
